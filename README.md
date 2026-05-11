@@ -1,0 +1,1 @@
+This project predicts future sales using Machine Learning techniques. The model is trained on historical sales data and helps businesses estimate upcoming sales trends, manage inventory, and improve decision-making.The application is built using Python and Flask, with a Machine Learning model trained using Scikit-learn.
